@@ -1,3 +1,7 @@
+> **Consolidated → archived.** This repo was merged into the single archive
+> [**universal-analytics-fake-traffic-suite**](https://github.com/wantmyusername/universal-analytics-fake-traffic-suite).
+> It is archived and kept only for reference.
+
 # Universal Analytics Traffic Generator — *Deprecated*
 
 > **Deprecated / historical code.** This repository is old code that targets **Universal Analytics**, which was shut down on **July 1, 2023**. The scripts no longer work and are kept only as a memory of what this once was. Not maintained, not to be used.
